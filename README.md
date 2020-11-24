@@ -2,6 +2,11 @@
 Open Source FHx-Server v7xxx server &amp; apk patch.
 
 
+# Required Tools to installation
+1. NETFramework,Version=v4.5.1
+2. XAMPP Web Server
+3. HFS (For Custom Patch)
+
 # Ultrapowa Clash Server (UCS):
 
 This package contains a CoC Server Emulator in beta version.
