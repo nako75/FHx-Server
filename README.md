@@ -1,6 +1,8 @@
 # FHx-Server
 Open Source FHx-Server v7xxx server &amp; apk patch.
 
+# About FHx
+FHX is an clash of clans private server, starting public since 2015 and closed since 2017.
 
 # Required Tools to installation
 1. NETFramework,Version=v4.5.1
