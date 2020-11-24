@@ -7,6 +7,14 @@ Open Source FHx-Server v7xxx server &amp; apk patch.
 2. XAMPP Web Server
 3. HFS (For Custom Patch)
 
+
+# How To Installation
+1. Create database, default database ucsdb, username root pasword none.
+2. Check your IP computer using cmd commannd ipconfig , and copy IPV4
+3. Download Host Editor(for root user) or use Host Go(for all user)
+4. Setting default gems on ucsconfig
+
+
 # Ultrapowa Clash Server (UCS):
 
 This package contains a CoC Server Emulator in beta version.
