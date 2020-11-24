@@ -12,7 +12,7 @@ Open Source FHx-Server v7xxx server &amp; apk patch.
 1. Create database, default database ucsdb, username root pasword none.
 2. Check your IP computer using cmd commannd ipconfig , and copy IPV4
 3. Download Host Editor(for root user) or use Host Go(for all user)
-4. Setting default gems on ucsconfig
+4. Setting default gold, elixir, dark exlixir and gems on ucsconf.config
 
 
 # Ultrapowa Clash Server (UCS):
